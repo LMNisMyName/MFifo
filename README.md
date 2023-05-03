@@ -14,11 +14,14 @@ https://kpcbf4ul2l.feishu.cn/docx/U6nJdBsZHoHjhSxIxTwcWxwwnAb
 
 # 开发人员
 中国科学技术大学 缪鹏博士
+
 上海交通大学 孙正阳硕士
 
-#致谢
+# 致谢
 中国科学技术大学
+
 上海交通大学
+
 李政道研究所
 
 
